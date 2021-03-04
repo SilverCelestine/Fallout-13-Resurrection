@@ -206,19 +206,19 @@
 /datum/config_entry/string/banappeals
 
 /datum/config_entry/string/wikiurl
-	config_entry_value = "https://desert-rose-fallout-13.fandom.com/wiki/Desert_Rose_-_Fallout_13_Wiki"
+	config_entry_value = "https://fallout.fandom.com/wiki/Fallout_2"
 
 /datum/config_entry/string/discordurl
-	config_entry_value = "https://discord.gg/NGpP36m"
+	config_entry_value = "https://fallout.fandom.com/wiki/Fallout_2"
 
 /datum/config_entry/string/wikiurltg
-	config_entry_value = "http://www.tgstation13.org/wiki"
+	config_entry_value = "https://fallout.fandom.com/wiki/Fallout_2"
 
 /datum/config_entry/string/forumurl
-	config_entry_value = "https://desertrosefallout13.boards.net"
+	config_entry_value = "https://fallout.fandom.com/wiki/Fallout_2"
 
 /datum/config_entry/string/rulesurl
-	config_entry_value = "https://discord.gg/NGpP36m"
+	config_entry_value = "https://i.imgur.com/bUDLRFI.png"
 
 /datum/config_entry/string/githuburl
 	config_entry_value = "https://github.com/DesertRose2/desertrose"
