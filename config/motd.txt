@@ -1,40 +1,7 @@
 <!-- Most valid html will work in here, excluding images. -->
-
-<h1>Welcome to Desert Rose 2: Back to the Wasteland!</h1>
-
-<b>This is an 18+ server, do not play if you are underage.</b>
-
-<i>
-<p>Don't be a dick, and <b>read the rules</b> before you play.</p>
-
-<p>Welcome to the Rebase! We have transferred our code onto /tg/-based Citadel, bringing many updates with it.</p>
-
-<p>Development is active and we are always looking for more talent, we are open source and you can get involved via the links below.</p>
-
-<p>GitHub: https://github.com/DesertRose2/desertrose</p>
-<p>Discord: https://discord.gg/NGpP36m</p>
-
-<p>Visit our forums for appeals, staff applications, and to apply for role whitelists!</p>
-<p>Forum: http://desertrosefallout13.boards.net/</p>
-<p>Whitelist Applications:  http://desertrosefallout13.boards.net/board/5/whitelist-applications</p>
-
-<p>Patreon:</p>
-<p>https://www.patreon.com/desertrose2</p>
-
-<p>Patreon Supporters:</p>
-<pre>
-covertOddity
-WeebleTeebles
-Debonaircorsiar
-BubzBoop
-lovilove
-Gjorn
-Dr.Dreidel
-Cybersex
-Name00
-BurningCold
-Mexrex
-MintCookie
-Octus
-</pre>
-</i>
+<hr>
+<h1 style="text-align: center;">Resurrection</h1>
+<hr>
+<p style="text-align: center;"><a href="https://www.reddit.com/r/Fallout13/%22%3EUnofficial Fallout 13 Server</a>. <em><br />Resurrection is an Unofficial Fallout 13 server based on Fallout 13 code. It takes place before the events of Fallout 2 and is considered a dynamic roleplay server with minimal restrictions of freedom. For the original experience, visit CBET ATOMA. For a different experience, visit Crashpoint: WFKIA. For a more structured and strict experience, visit Desert Rose 2. </em><br
+<hr />
+<p><em><br />You must be 18 or older to play here.</em></p><hr>

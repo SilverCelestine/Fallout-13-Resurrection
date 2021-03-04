@@ -21,7 +21,7 @@ $include policy.txt
 # There are various options which are hard-locked for security reasons.
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
-# SERVERNAME Desert Rose 2
+# SERVERNAME Resurrection
 
 ## Server tagline: This will appear right below the server's title.
 # SERVERTAGLINE A generic TG-based server
@@ -30,7 +30,7 @@ $include policy.txt
 # SERVERSQLNAME fo13sql
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
-STATIONNAME the Sonoran Wasteland
+STATIONNAME Nevada
 
 ## Put on byond hub: Uncomment this to put your server on the byond hub.
 #HUB
@@ -257,13 +257,13 @@ CHECK_RANDOMIZER
 # SERVER ss13.example.com:2506
 
 ## forum address
-# FORUMURL https://citadel-station.net/forum/
+# FORUMURL https://fallout.fandom.com/wiki/Fallout_2
 
 ## Wiki address
-# WIKIURL https://katlin.dog/citadel-wiki
+# WIKIURL https://fallout.fandom.com/wiki/Fallout_2
 
 ## Rules address
-# RULESURL https://katlin.dog/citadel-rules/main
+# RULESURL https://i.imgur.com/bUDLRFI.png
 
 ## Github address
 # GITHUBURL https://github.com/Citadel-Station-13/Citadel-Station-13
