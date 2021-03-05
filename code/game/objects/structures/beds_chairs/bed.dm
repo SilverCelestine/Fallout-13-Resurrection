@@ -205,6 +205,21 @@
 	desc = "This looks similar to contraptions from Earth. Could aliens be stealing our technology?"
 	icon_state = "abed"
 
+/obj/structure/bed/wood_bed
+	name = "Bed"
+	desc = "A Post-War bed placed upon a wooden frame and filled with materials varying from hay to cloth. Its surprisingly comfortable!"
+	icon_state = "wood_bed"
+
+/obj/structure/bed/metal_bed5
+	name = "Old Bed"
+	desc = "A old and dirty mattress of indiscernible origin placed upon a sturdy metal frame."
+	icon_state = "metal_bed5"
+
+/obj/structure/bed/metal_bed_nm
+	name = "Metal Bedframe"
+	desc = "A sturdy metal bedframe that's lacking a mattress, only for the desperate or hardcore."
+	icon_state = "metal_bed_nm"
+	
 /obj/structure/bed/mattress
 	name = "mattress"
 	desc = "This is used to lie in, sleep in or strap on."
