@@ -56,8 +56,8 @@ window "mainwindow"
 		anchor2 = none
 		is-default = true
 		saved-params = "pos;size;is-minimized;is-maximized"
-		title = "Desert Rose 2"
-		icon = 'icons\\deathclawlogo.png'
+		title = "Resurrection"
+		icon = 'icons\\Cain.jpg'
 		macro = "default"
 		menu = "menu"
 	elem "split"
